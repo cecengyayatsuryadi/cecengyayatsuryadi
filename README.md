@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @cecengyayatsuryadi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hi there 👋
 
-<!---
-cecengyayatsuryadi/cecengyayatsuryadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm Ceceng Yayat Suryadi, an enthusiastic web developer from Indonesia.
+
+### 🔭 Currently, I'm working on:
+- Developing various web applications and websites using modern web technologies.
+- Improving my skills in both frontend and backend development.
+
+### 🌱 Currently, I'm learning:
+- Advanced concepts of React and Node.js.
+- Data structures and algorithms.
+
+### 👯 I'm looking to collaborate on:
+- Open source projects related to web development.
+- Building cool and innovative web applications.
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/ceceng/)
+- [Twitter](https://twitter.com/lillet_boy)
+- [Personal website](https://www.rasional.my.id/)

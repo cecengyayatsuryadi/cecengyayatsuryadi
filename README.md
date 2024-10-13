@@ -1,30 +1,22 @@
-# Hi there! 👋 Welcome to my GitHub profile!
+# Personal Portfolio
 
-## About Me
-I'm Ceceng Yayat Suryadi, a professional developer and technology enthusiast. With a strong passion for exploring new technologies and creating innovative solutions, I specialize in web development, machine learning, and data analysis.
+**About Me**
 
-## Skills
-- **Programming Languages**: Python, JavaScript, Java, C++
-- **Web Development**: 
-  - Front-end: HTML, CSS, JavaScript, React.js
-  - Back-end: Node.js, Express.js
-  - RESTful APIs
-- **Data Analysis**: 
-  - Data manipulation: Pandas, NumPy
-  - Database: SQL, data cleaning, and preprocessing
-  - Exploratory data analysis techniques
-- **Machine Learning**: 
-  - Libraries and frameworks: scikit-learn, TensorFlow
-  - Natural Language Processing for text analysis
-  - Regression and Classification algorithms
+This is my personal portfolio showcasing a collection of small projects I've built to learn and experiment.
 
-## Let's Collaborate
-I'm always excited to collaborate on interesting projects and discuss innovative ideas. If you have a project in mind or would like to explore collaboration opportunities, feel free to reach out to me.
+**Tech Stack**
 
-## Contributions and Stats
-[![GitHub Contributions](https://img.shields.io/github/last-commit/cecengyayatsuryadi/cecengyayatsuryadi?style=flat-square)](https://github.com/cecengyayatsuryadi/cecengyayatsuryadi)
-[![GitHub Stars](https://img.shields.io/github/stars/cecengyayatsuryadi/cecengyayatsuryadi?style=flat-square)](https://github.com/cecengyayatsuryadi/cecengyayatsuryadi/stargazers)
-[![GitHub Followers](https://img.shields.io/github/followers/cecengyayatsuryadi?style=social)](https://github.com/cecengyayatsuryadi?tab=followers)
+* **HTML, CSS, JavaScript:** For building website front-ends.
+* **React:** For creating interactive web applications.
+* **Node.js:** For building server-side applications.
 
-## Let's Connect and Collaborate
-Feel free to explore my repositories and connect with me. Let's collaborate and work on exciting projects together! 🚀
+**License**
+
+This project is licensed under the MIT License.
+
+**Contact**
+
+* **Email:** cecengyayat@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/ceceng/
+
+**Let's connect!**
